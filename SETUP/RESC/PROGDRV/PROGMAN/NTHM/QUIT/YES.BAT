@@ -1,0 +1,5 @@
+@ECHO OFF
+CD..
+CD..
+CD RESC
+SAFE.BAT

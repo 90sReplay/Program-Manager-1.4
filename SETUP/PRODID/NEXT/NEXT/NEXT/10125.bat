@@ -1,0 +1,7 @@
+@ECHO OFF
+CD..
+CD..
+CD..
+CD..
+CD RESC
+INSTALL.BAT

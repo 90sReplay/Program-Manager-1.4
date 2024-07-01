@@ -1,0 +1,83 @@
+This is a breif demonstration telling you how to Basically Use Program Manager, Theres no current Programs for this
+(or they might just be very very un-popular) so dont expect it being the best at first.
+
+On Start you'll see a PROGMAN window, This is the page you'll start at Every Time.
+
+Now to See Program manager Help type "PROGMAN" and you'll get all the commands, and
+typing "PROGVER" will show you the Program Manager version.
+
+these 2 options are a menu
+under the PROGMAN title bar that looks like this:
+
+------------------------------------------
+| {PROGHELP} {PROGVER}                   |
+------------------------------------------
+
+and the title bar looks like this:
+
+------------------------------------------
+| PROGMAN                           QUIT |
+------------------------------------------
+
+Title bar Notice: Sometimes depending on what your in,
+"QUIT" wont be there. through out the manual it will state
+if the "QUIT" isn't there but theres still a way to exit and the manual
+will state that two.
+
+
+
+Now on PROGHELP these are all the commands but more detailed:
+
+PROGMAN----------------------Displays a Blank page like at start (Wish is the Starting Window)
+PROGHELP---------------------Displays all of the Program Manager Commands that are available in your
+                             Version (DASH commands wont show)
+PROGVER----------------------Displays the current version of Program Manager installed on your PC that
+                             Your using...
+PROGDIR----------------------Brings up a window Showing the Directory of C:\PROGMAN (where Program Manager
+                             is installed)
+HOMELNK----------------------Shows a list of BATCH files that bring you to Programs, You can add them
+                             Yourself or Program Installers will do it automaticly...
+PANEL------------------------Displays all the Settings you can change on Program Manager
+DOSHELP----------------------Shows you DOS commands you can run in Program Manager (We will talk about
+                             This Latter...)
+
+
+To Quit something type "QUIT", the "QUIT" on the top right of the window tells you
+If the "QUIT" Will work...
+
+
+
+In Panel (Type "PANEL" to goto it) you'll see 3 things to do
+1. Quit
+2. Smooth Theme (SMT)
+3. SMT at Start (SMS)
+
+now the (SMT) or (SMS) above what it is, means you type that to Do that action, now lets Explane SMT,
+To make sure the Smooth theme works by Quiting Panel by typing "QUIT" and Type "NPGMGT" and if you see
+a more Square and Smoother theme, the theme works properly. to go back to Panel just type "PANEL"
+and if you want to enable that theme, Type "SMT" to enable it, you'll see the same theme as in "NPGMGT"
+Type "QUIT" to leave PANEL and it should be the exact same but with the Smooth theme...
+
+Now at Panel make sure your at the Normal Theme, Type "SMS" to enable The Smooth Theme at startup, but go into
+Smooth theme mode and do "SMS" again to Make the Normal Theme to Show at startup (Wish is the Defualt)
+
+
+
+On DOSHELP these are all the commands but more detailed:
+
+DOSDIRC----------------------Displays the Root of the C:\ Drive
+DOSDIRA----------------------Displays the Root of the A:\ Drive if you have a A:\ Drive
+                             (There will be Messages if you dont have an A:\ Drive)
+DOSVER-----------------------Displays the DOS version you have Installed on your Computer
+DOSTIME----------------------Shows your Currently Set BIOS Time (Wish can also be displayed
+                             in MS-DOS by typing "TIME" or "DATE")
+
+
+
+When your at PROGMAN, PROGHELP, PROGVER, DOSHELP, DOSTIME, DOSDIRA, DOSDIRC, or PROGDIR by typing "QUIT"
+you'll get a "Are you sure you want to shutdown your PC?" if you type "N" or "NO" it will cancel, but if
+you type "Y" or "YES" it will display a message of its Prepairing to turn off your Computer, This message might
+Instantly pass by, but when its safe to turn off your PC, it will say "Its now safe to turn off your PC..."
+
+But if you type QUIT-D Instaid of Turning off your Computer, it will ask you if you want to quit to DOS, And
+if you say Yes, you'll be Sent to a DOS Prompt.
